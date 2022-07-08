@@ -1,3 +1,16 @@
+# Required Screenshots For Submission
+
+## Streamlit Application Page 
+![](Images/Streamlit_Page.png)
+
+
+## Gancahe Accounts Screenshot
+![](Images/Ganache_Accounts.png)
+
+## Ganache Transactions Screenshot
+![](Images/Ganache_Trans.png)
+
+
 ## Unit 19 Homework: Cryptocurrency Wallet
 
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
